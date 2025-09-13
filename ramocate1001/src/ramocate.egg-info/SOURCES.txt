@@ -1,0 +1,14 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+pyproject.toml
+src/ramocate/__init__.py
+src/ramocate/main.py
+src/ramocate.egg-info/PKG-INFO
+src/ramocate.egg-info/SOURCES.txt
+src/ramocate.egg-info/dependency_links.txt
+src/ramocate.egg-info/top_level.txt
+src/ramocate/compiledlibs/ramocatec.c
+src/ramocate/compiledlibs/ramocatedll.dll
+src/ramocate/compiledlibs/ramocatedylib.dylib
+src/ramocate/compiledlibs/ramocateso.so
